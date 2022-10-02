@@ -9,7 +9,7 @@ const Navbar = () => {
     <NavbarBs className="d-flex justify-content-between shadow-sm">
       <Container>
         <div className="d-flex">
-          <Nav.Link as={NavLink} className=" px-4" to="/store">
+          <Nav.Link as={NavLink} className=" px-4" to="/">
             Store
           </Nav.Link>
           <Nav.Link as={NavLink} to="/about" className=" px-4">
